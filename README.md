@@ -8,3 +8,4 @@ simple_model.py 创建了一个简单的神经网络，将黑白图片转换为L
 
 其他：
 [用AI给黑白照片上色，复现记忆中的旧时光](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82393433)
+[三步教你搭建给黑白照片上色的神经网络 !（附代码）](https://cloud.tencent.com/developer/article/1032134)
